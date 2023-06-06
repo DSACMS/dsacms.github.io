@@ -1,8 +1,8 @@
 <!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
 
-# TODO Project Name
+# DSACMS GitHub Org Profile Page
 
-TODO: Project Description (could match GitHub.com Repo Description)
+Landing page for DSACMS GitHub Organization
 
 ## Getting Started
 
