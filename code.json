@@ -1,0 +1,46 @@
+{
+  "name": "dsacms.github.io",
+  "description": "Landing Page for DSACMS GitHub Organization",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/dsacms.github.io",
+  "vcs": "git",
+  "laborHours": 2392,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Shell"
+  ],
+  "maintenance": "",
+  "date": {
+    "created": "2023-06-06T17:27:47Z",
+    "lastModified": "2025-02-13T20:59:29Z",
+    "metaDataLastUpdated": "2025-02-13T21:01:14.296Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0
+}
