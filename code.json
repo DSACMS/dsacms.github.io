@@ -1,5 +1,6 @@
 {
   "name": "dsacms.github.io",
+  "version": "",
   "description": "Landing Page for DSACMS GitHub Organization",
   "longDescription": "We're a group of civic-minded technologists transforming how the federal government delivers healthcare to the American people. The Digital Service at CMS (DSAC) consists of engineers, designers, and product managers—serving our country by building and maintaining the technology underpinning our national health care programs.",
   "status": "Production",
@@ -15,32 +16,61 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/dsacms.github.io",
+  "repositoryHost": "github.com/DSACMS",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2392,
-  "platforms": ["web"],
-  "categories": ["communications"],
+  "laborHours": 2441,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "communications"
+  ],
   "softwareType": "standalone/other",
   "languages": [
     "Shell"
   ],
   "maintenance": "internal",
+  "contractNumber": [],
+  "SBOM": "https://github.com/DSACMS/dsacms.github.io/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-06-06T17:27:47Z",
-    "lastModified": "2025-02-13T20:59:29Z",
-    "metaDataLastUpdated": "2025-02-13T21:01:14.296Z"
+    "lastModified": "2025-11-04T23:28:27Z",
+    "metadataLastUpdated": "2025-11-05T22:31:50.481Z"
   },
-  "tags": ["repository", "comms"],
+  "tags": [
+    "repository",
+    "comms"
+  ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
     "name": "CMS Open Source Team"
   },
+  "feedbackMechanism": "https://github.com/DSACMS/dsacms.github.io/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
-  "subsetInHealthcare": ["operational"],
-  "userType": ["government"],
-  "repositoryHost": "github.com/DSACMS",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [
+    "operational"
+  ],
+  "userType": [
+    "government"
+  ],
   "maturityModelTier": 2
 }
