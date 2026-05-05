@@ -22,6 +22,10 @@ We accomplish these goals by bringing the best and brightest talent from industr
 Establish and maintain guidance, policies, practices, and talent pipelines that advance equity, build trust, and amplify impact across CMS, HHS, and Federal Open Source Ecosystems by working and sharing openly. 
 
 ## CMS OSPO in the News
+- [Sharing is Caring: How CMS is Leading on Federal Open Source Requirements: A FormFest 2025 Profile](https://digitalgovernmenthub.org/publications/sharing-is-caring-how-cms-is-leading-on-federal-open-source-requirements-a-formfest-2025-profile/)
+- [GovCIO: Fed Efficiency Drive Includes Code-Sharing Law](https://govciomedia.com/fed-efficiency-drive-includes-code-sharing-law-metahumans/)
+- [GovCIO: New SHARE IT Act Mandates Federal Code Sharing to Cut Software Costs](https://govciomedia.com/new-share-it-act-mandates-federal-code-sharing-to-cut-software-costs/)
+- [FedScoop: Meet the Winners of the 2025 FedScoop50](https://fedscoop.com/fedscoop50/winners/)
 - [Health IT Leaders Receive Flywheel Awards from GovCIO Media & Research](https://govciomedia.com/health-it-leaders-receive-flywheel-awards-from-govcio-media-research/)
 - [Feds Prioritize Open-Source Software Security Initiatives](https://govciomedia.com/feds-prioritize-open-source-so-ftware-security-initiatives/)
 - [Nava Open-Source Summit: Modernizing Government with Code](https://ospo.gwu.edu/nava-open-source-summit-modernizing-government-code)
@@ -47,6 +51,13 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [Open Source and the Digital Service at CMS.gov - All Things Open 2022](https://www.youtube.com/watch?v=Q0EJIevZS0I)
 
 ## External Talks
+- [Punch Tape: Inside the Federal Government's First OSPO](https://youtu.be/ZETBjaiI12M?si=bFgWPDrisDMxgIVc)
+- [GW Open Source Conference: It Is Time: Succession Planning, Shepherding, and Sunsetting Open Source Projects](https://ospo.gwu.edu/oscon-2026-details)
+- [FormFest: Forming an Open Source Culture in Federal Agencies](https://www.youtube.com/watch?v=J8iSJEEsysM)
+- [DEFCon: CMS.gov OSPO One Year Later: Launching the Agency's First Bug Bounty](https://aicyberchallenge.com/def-con-33/)
+- GovCIO Federal IT Efficiency Summit
+- Code For America Summit: Open Source & CMS: Making a Bigger Impact
+- [Program Keynote of Open Source Conference at The George Washington University OSCON](https://ospo.gwu.edu/sites/g/files/zaxdzs6701/files/2025-03/gw_oscon_program.pdf)
 - [DSAC Lightning Talk @ Nava OSS Summit 2024](https://youtu.be/XGGcH8JnQns?si=Q3YiEFPxx5FyQxJ3)
 - [Open Source in Government: Raising the Floor and Ceiling as an Early-Career Software Engineer @ Grace Hopper 2024](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218938114001YRXT)
 - [Open Source Summit: Advancing IT Solutions in Federal Health and Beyond](https://www.navapbc.com/events/open-source-summit-federal-health)
