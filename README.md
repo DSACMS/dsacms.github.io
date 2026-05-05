@@ -55,7 +55,6 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [GW Open Source Conference: It Is Time: Succession Planning, Shepherding, and Sunsetting Open Source Projects](https://ospo.gwu.edu/oscon-2026-details)
 - [FormFest: Forming an Open Source Culture in Federal Agencies](https://www.youtube.com/watch?v=J8iSJEEsysM)
 - [DEFCon: CMS.gov OSPO One Year Later: Launching the Agency's First Bug Bounty](https://aicyberchallenge.com/def-con-33/)
-- [Fed Efficiency Drive Includes Code-Sharing Law, Metahumans](https://govciomedia.com/fed-efficiency-drive-includes-code-sharing-law-metahumans/)
 - [GovCIO Federal IT Efficiency Summit](https://www.youtube.com/watch?v=wIAgkiqiSQs&t=1s)
 - Code For America Summit: Open Source & CMS: Making a Bigger Impact
 - [Program Keynote of Open Source Conference at The George Washington University OSCON](https://ospo.gwu.edu/sites/g/files/zaxdzs6701/files/2025-03/gw_oscon_program.pdf)
