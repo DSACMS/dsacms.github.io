@@ -37,8 +37,8 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - Open Source Summit North America (OSSNA) 2024 
     * [Establshing a Repository Baseline](https://www.youtube.com/watch?v=v0aaVBicOjI)
     * [Repository Cohorts](https://www.youtube.com/watch?v=FpVNSAj9eDg)
-- [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security Initiative](https://www.whitehouse.gov/wp-content/uploads/2024/01/Securing-the-Open-Source-Software-Ecosystem-OS3I-End-of-Year-Report-MASTERCOPY.pdf)
-- [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security and Memory Safe Programming Languages](https://www.whitehouse.gov/wp-content/uploads/2023/09/OS3I-RFI-Final-09232023.pdf)
+- [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security Initiative](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Securing-the-Open-Source-Software-Ecosystem-OS3I-End-of-Year-Report-MASTERCOPY.pdf)
+- [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security and Memory Safe Programming Languages](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/OS3I-RFI-Final-09232023.pdf)
 - [US Digital Response Case Study: How One Federal Agency Worked to Release Open Source Software Responsibly](https://www.usdigitalresponse.org/resources/cms-open-source-software)
 - [Managing Federal CHAOSS at CMS.gov - CHAOSScast](https://podcast.chaoss.community/81)
 - [Inside CMS’ Groundbreaking Open Source Program Office](https://www.youtube.com/watch?v=34LQnyB3ydQ)
