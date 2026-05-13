@@ -37,6 +37,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - Open Source Summit North America (OSSNA) 2024 
     * [Establshing a Repository Baseline](https://www.youtube.com/watch?v=v0aaVBicOjI)
     * [Repository Cohorts](https://www.youtube.com/watch?v=FpVNSAj9eDg)
+- [Whitehouse Office of the National Cyber Director Summary of the 2023 Request for Information on Open Source Software Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/08/Summary-of-the-2023-Request-for-Information-on-Open-Source-Software-Security.pdf)
 - [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security Initiative](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Securing-the-Open-Source-Software-Ecosystem-OS3I-End-of-Year-Report-MASTERCOPY.pdf)
 - [Biden-⁠Harris Administration Releases End of Year Report on Open-Source Software Security and Memory Safe Programming Languages](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/OS3I-RFI-Final-09232023.pdf)
 - [US Digital Response Case Study: How One Federal Agency Worked to Release Open Source Software Responsibly](https://www.usdigitalresponse.org/resources/cms-open-source-software)
