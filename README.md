@@ -52,6 +52,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [Open Source and the Digital Service at CMS.gov - All Things Open 2022](https://www.youtube.com/watch?v=Q0EJIevZS0I)
 
 ## External Talks
+- [Open by Default or Intent: Inflection Points for Public Sector Open Source Decisions @ Open Source Summit Europe 2026](https://www.youtube.com/watch?v=bWqWSNeZ1kg)
 - [Punch Tape: Inside the Federal Government's First OSPO](https://youtu.be/ZETBjaiI12M?si=bFgWPDrisDMxgIVc)
 - [GW Open Source Conference: It Is Time: Succession Planning, Shepherding, and Sunsetting Open Source Projects](https://ospo.gwu.edu/oscon-2026-details)
 - [FormFest: Forming an Open Source Culture in Federal Agencies](https://www.youtube.com/watch?v=J8iSJEEsysM)
